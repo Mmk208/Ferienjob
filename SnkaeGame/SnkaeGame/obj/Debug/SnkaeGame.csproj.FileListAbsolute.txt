@@ -1,0 +1,15 @@
+C:\Users\16000801\Desktop\Ferienjob\C#\SnkaeGame\SnkaeGame\bin\Debug\SnkaeGame.exe.config
+C:\Users\16000801\Desktop\Ferienjob\C#\SnkaeGame\SnkaeGame\bin\Debug\SnkaeGame.exe
+C:\Users\16000801\Desktop\Ferienjob\C#\SnkaeGame\SnkaeGame\bin\Debug\SnkaeGame.pdb
+C:\Users\16000801\Desktop\Ferienjob\C#\SnkaeGame\SnkaeGame\obj\Debug\SnkaeGame.csprojAssemblyReference.cache
+C:\Users\16000801\Desktop\Ferienjob\C#\SnkaeGame\SnkaeGame\obj\Debug\MainWindow.g.cs
+C:\Users\16000801\Desktop\Ferienjob\C#\SnkaeGame\SnkaeGame\obj\Debug\App.g.cs
+C:\Users\16000801\Desktop\Ferienjob\C#\SnkaeGame\SnkaeGame\obj\Debug\SnkaeGame_MarkupCompile.cache
+C:\Users\16000801\Desktop\Ferienjob\C#\SnkaeGame\SnkaeGame\obj\Debug\SnkaeGame_MarkupCompile.lref
+C:\Users\16000801\Desktop\Ferienjob\C#\SnkaeGame\SnkaeGame\obj\Debug\MainWindow.baml
+C:\Users\16000801\Desktop\Ferienjob\C#\SnkaeGame\SnkaeGame\obj\Debug\SnkaeGame.g.resources
+C:\Users\16000801\Desktop\Ferienjob\C#\SnkaeGame\SnkaeGame\obj\Debug\SnkaeGame.Properties.Resources.resources
+C:\Users\16000801\Desktop\Ferienjob\C#\SnkaeGame\SnkaeGame\obj\Debug\SnkaeGame.csproj.GenerateResource.cache
+C:\Users\16000801\Desktop\Ferienjob\C#\SnkaeGame\SnkaeGame\obj\Debug\SnkaeGame.csproj.CoreCompileInputs.cache
+C:\Users\16000801\Desktop\Ferienjob\C#\SnkaeGame\SnkaeGame\obj\Debug\SnkaeGame.exe
+C:\Users\16000801\Desktop\Ferienjob\C#\SnkaeGame\SnkaeGame\obj\Debug\SnkaeGame.pdb
