@@ -1,0 +1,7 @@
+C:\Users\16000801\Desktop\Ferienjob\C#\ArrayListNeu\ArrayListNeu\bin\Debug\ArrayListNeu.exe.config
+C:\Users\16000801\Desktop\Ferienjob\C#\ArrayListNeu\ArrayListNeu\bin\Debug\ArrayListNeu.exe
+C:\Users\16000801\Desktop\Ferienjob\C#\ArrayListNeu\ArrayListNeu\bin\Debug\ArrayListNeu.pdb
+C:\Users\16000801\Desktop\Ferienjob\C#\ArrayListNeu\ArrayListNeu\obj\Debug\ArrayListNeu.csprojAssemblyReference.cache
+C:\Users\16000801\Desktop\Ferienjob\C#\ArrayListNeu\ArrayListNeu\obj\Debug\ArrayListNeu.csproj.CoreCompileInputs.cache
+C:\Users\16000801\Desktop\Ferienjob\C#\ArrayListNeu\ArrayListNeu\obj\Debug\ArrayListNeu.exe
+C:\Users\16000801\Desktop\Ferienjob\C#\ArrayListNeu\ArrayListNeu\obj\Debug\ArrayListNeu.pdb

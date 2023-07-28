@@ -1,0 +1,4 @@
+Autor: J.KRowling,Titel: Harry Potter,ISBN: 3551551677,Pages: 334,Year of Publication: 1997,Genre: Science-Fiction
+Autor: dskiof,Titel: hdsxjf#,ISBN: 12345,Pages: 123,Year of Publication: 1234,Genre: random
+Autor: Test,Titel: testTitel,ISBN: 12344567890,Pages: 123,Year of Publication: 1234,Genre: randomTestGenre
+Autor: lf,Titel: wr,ISBN: 123456789999,Pages: 123,Year of Publication: 12334,Genre: rn
